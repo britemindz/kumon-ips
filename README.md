@@ -14,5 +14,7 @@ The lists are updated daily via a scheduled GitHub Action.
 Point your automated Firewall threat feeds or address-object lists directly to the raw file URLs below:
 
 Combined CIDRs: `https://raw.githubusercontent.com/britemindz/kumon-ips/refs/heads/main/ip-lists/kumon_all_cidrs.txt`
+
 IPv4 Blocks: `https://raw.githubusercontent.com/britemindz/kumon-ips/refs/heads/main/ip-lists/kumon_ipv4_cidrs.txt`
+
 IPv6 Blocks: `https://raw.githubusercontent.com/britemindz/kumon-ips/refs/heads/main/ip-lists/kumon_ipv6_cidrs.txt`
